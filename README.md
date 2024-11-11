@@ -3,9 +3,13 @@ presented by Wen Zhonglue, Han Jinlin and Liu Fengshan. It has been improved to 
 cluster catalog for the CSST.
 
 Directory Structure
+
 data/: Contains a sample of galaxy data.
+
 source/: Contains the source code.
 
 Running the program
+
 To execute the program (FORTRAN code), run:
+
 source runcode
